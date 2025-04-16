@@ -17,14 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdul waleed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul waleed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-waleed-18004231a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul waleed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23928247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23928247" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdulwaleed06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulwaleed06" height="30" width="40" /></a>
-<a href="https://fb.com/abdul waleed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul waleed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/alwaleedfsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul waleed" height="30" width="40" /></a>
 <a href="https://instagram.com/alwaleedfsd36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alwaleedfsd36" height="30" width="40" /></a>
 <a href="https://dribbble.com/abdul_waleed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abdul_waleed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdul waleed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdul waleed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdul waleed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul waleed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abdulwaleedfsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdul waleed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/QPgmJopJmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul waleed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
